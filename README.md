@@ -1,5 +1,7 @@
 # Evolution of Religion Timeline
 
+> **Opace open-source portfolio:** [Browse Opace data visualisation, interactive web projects, AI tools and Agent Skills](https://github.com/OpaceDigitalAgency/OpaceDigitalAgency)
+
 ## Overview
 
 This project is an interactive timeline web application that visualizes the evolution and spread of world religions from prehistory to the present. Users can explore, filter, and learn about 59 religions, their origins, key figures, beliefs, and historical context.
