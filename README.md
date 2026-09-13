@@ -1,7 +1,5 @@
 # Evolution of Religion Timeline
 
-> **Opace open-source portfolio:** [Browse Opace data visualisation, interactive web projects, AI tools and Agent Skills](https://github.com/OpaceDigitalAgency/OpaceDigitalAgency)
-
 ## Overview
 
 This project is an interactive timeline web application that visualizes the evolution and spread of world religions from prehistory to the present. Users can explore, filter, and learn about 59 religions, their origins, key figures, beliefs, and historical context.
@@ -50,7 +48,7 @@ This project is an interactive timeline web application that visualizes the evol
 
 1. Clone the repository:
    ```
-   git clone https://github.com/OpaceDigitalAgency/timelinev2.git
+   git clone https://github.com/InnovatingTech/timelinev2.git
    cd timelinev2
    ```
 
@@ -88,48 +86,3 @@ This project is an interactive timeline web application that visualizes the evol
 ## License
 
 This project is licensed under the MIT License.
-
----
-
----
-
-## About Monthly Web Design
-
-This project is showcased by **Monthly Web Design**, offering [pay monthly website design services](https://monthlywebdesign.com) with no upfront costs.
-
-### Our Services
-
-- **Pay Monthly Websites** - Professional sites from £99/month
-- **No Upfront Costs** - Get started immediately
-- **Includes Hosting & Support** - Everything you need
-- **Modern Web Design** - Built with latest technologies
-- **Flexible Plans** - Cancel anytime
-
-### Get in Touch
-
-- 🌐 Website: [monthlywebdesign.com](https://monthlywebdesign.com)
-- 📧 Examples: [View Our Work](https://monthlywebdesign.com/examples)
-- 💼 Contact: [Get Started](https://monthlywebdesign.com/contact)
-- 🏢 Also visit: [Opace Digital Agency](https://opace.agency)
-
-
----
-
-## About Monthly Web Design
-
-This project is showcased by **Monthly Web Design**, offering [pay monthly website design services](https://monthlywebdesign.com) with no upfront costs.
-
-### Our Services
-
-- **Pay Monthly Websites** - Professional sites from £99/month
-- **No Upfront Costs** - Get started immediately
-- **Includes Hosting & Support** - Everything you need
-- **Modern Web Design** - Built with latest technologies
-- **Flexible Plans** - Cancel anytime
-
-### Get in Touch
-
-- 🌐 Website: [monthlywebdesign.com](https://monthlywebdesign.com)
-- 📧 Examples: [View Our Work](https://monthlywebdesign.com/examples)
-- 💼 Contact: [Get Started](https://monthlywebdesign.com/contact)
-- 🏢 Also visit: [Opace Digital Agency](https://opace.agency)
